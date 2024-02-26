@@ -1,6 +1,12 @@
 venv
 
 
+settings.py
+asgi.py
+__init__.py
+urls.py
+wsgi.py
+
 
 
 *.log
