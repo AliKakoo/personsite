@@ -50,7 +50,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-
+/static
 
 
 *.manifest
